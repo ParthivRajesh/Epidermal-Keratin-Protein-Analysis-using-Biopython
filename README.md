@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The objective of this project is to perform fundamental protein sequence analysis starting from a FASTA file obtained from the NCBI database. The script reads and processes the epidermal keratin protein sequence, extracts biologically relevant information, and applies sequence-level analysis methods commonly used in computational biology.
+The objective of this project was to perform fundamental protein sequence analysis starting from a FASTA file obtained from the NCBI database. The script reads and processes the epidermal keratin protein sequence, extracts biologically relevant information, and applies sequence-level analysis methods commonly used in computational biology.
 
 In addition, the project integrates NCBI BLAST to compare the protein sequence against known databases, enabling functional inference and evolutionary insight based on sequence similarity. This mirrors real-world bioinformatics pipelines used in protein characterization and annotation.
 
