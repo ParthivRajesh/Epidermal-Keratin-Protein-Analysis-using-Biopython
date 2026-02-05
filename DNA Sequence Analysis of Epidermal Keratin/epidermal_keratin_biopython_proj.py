@@ -155,8 +155,8 @@ for c in record.comments:
 print()
 
 # Questions
-## What does this sequence likely do? - This sequence is responsible for proteins that are differently expressed in different tissues and a different stages of differentiation and development in Homo sapiens.
-## Why do they think so? - This sequence has a main function: The nonhelical tail domain is involved in promoting KRT5- KRT14 filaments to self-organize into large bundles and enhances the mechanical properties involved in resilience of keratin intermediate filaments in vitro.
+## What does this sequence likely do? - This sequence is responsible for proteins that are differently expressed in different tissues and a different stages of differentiation and development in Homo sapiens' Keratin Layer (Epidermal)
+## Why do they think so? - This sequence has a main function: The nonhelical tail domain is involved in promoting KRT5- KRT14 filaments to self-organize into large bundles and this enhances the mechanical properties involved in resilience of keratin intermediate filaments in vitro.
 ## What evidence supports their claim? - This sequence is directly taken from NCBI with reference link provided on top
 
 # Done by Parthiv Rajesh
