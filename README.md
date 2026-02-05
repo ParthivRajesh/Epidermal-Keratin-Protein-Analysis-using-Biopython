@@ -16,7 +16,7 @@ https://www.ncbi.nlm.nih.gov/nuccore/J00124.1
 - Parsing and handling protein FASTA sequences using Biopython
 - Extraction of sequence metadata and length
 - Amino acid composition analysis
-- Basic protein sequence inspection
+- Basic protein sequence quality control/check
 - BLAST search using NCBI’s online services
 - Parsing and interpretation of BLAST alignment results
 
